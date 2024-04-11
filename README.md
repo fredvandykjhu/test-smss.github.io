@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default 
 title: home page
 ---
 # test-smss2
